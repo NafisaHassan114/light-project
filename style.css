@@ -1,0 +1,18 @@
+.light-box{
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px black solid;
+}
+button{
+    padding: 20px 50px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 28px;
+}
+.box-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
